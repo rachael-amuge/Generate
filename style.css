@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    box-shadow: lightslategray;
+
+}
+
+.calculator-screen{
+    background-color: black;
+    padding: 25px;
+    margin: 1rem;
+    text-align: right;
+}
+
+.calculator{
+    border: black;
+    padding: 30px;
+    
+
+}
+button{
+    padding: 6px;
+}
+
+
